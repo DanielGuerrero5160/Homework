@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c2fb229-d0a9-4cd7-88ec-57d1bab04fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9HW/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9HW/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9HW/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9HW/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9HW/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9HW/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11HW/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9HW.Task2" />
+}</component>
+  <component name="RunManager" selected="Application.Task8">
+    <configuration name="Class11HW.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11HW.Task4" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9HW.*" />
+          <option name="PATTERN" value="Class11HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9HW.Task3" />
+    <configuration name="Class11HW.Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11HW.Task5" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9HW.*" />
+          <option name="PATTERN" value="Class11HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9HW.Task4" />
+    <configuration name="Class11HW.Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11HW.Task6" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9HW.*" />
+          <option name="PATTERN" value="Class11HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9HW.Task5" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11HW.Task7" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9HW.*" />
+          <option name="PATTERN" value="Class11HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9HW.Task6" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11HW.Task8" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9HW.*" />
+          <option name="PATTERN" value="Class11HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Class11HW.Task6" />
+        <item itemvalue="Application.Class11HW.Task5" />
+        <item itemvalue="Application.Class11HW.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +135,20 @@
       <updated>1673842506279</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Class11HW/Task4.java</url>
+          <line>3</line>
+          <properties class="Class11HW.Task4" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
