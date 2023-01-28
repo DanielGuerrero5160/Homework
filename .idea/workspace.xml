@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c2fb229-d0a9-4cd7-88ec-57d1bab04fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/class15HW/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15HW/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15HW/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15HW/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15HW/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15HW/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class13HW/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class13HW/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class13HW/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class13HW/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +47,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class13HW.Task2" />
+  <component name="RunManager" selected="Application.Student">
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15HW.Student" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class13HW.*" />
+          <option name="PATTERN" value="class15HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,11 +62,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class13HW.Task3" />
+      <option name="MAIN_CLASS_NAME" value="class15HW.Task3" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class13HW.*" />
+          <option name="PATTERN" value="class15HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class13HW.Task4" />
+      <option name="MAIN_CLASS_NAME" value="class15HW.Task4" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class13HW.*" />
+          <option name="PATTERN" value="class15HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class13HW.Task6" />
+    <configuration name="class15HW.Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15HW.Task5" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class13HW.*" />
+          <option name="PATTERN" value="class15HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.class15HW.Task5" />
+        <item itemvalue="Application.class15HW.Task4" />
         <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>

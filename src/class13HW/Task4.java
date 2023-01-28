@@ -7,6 +7,7 @@ String str="This is the sentence i want to reverse";
        String reverseWord="";
        for (String x: strSplit){
            StringBuilder sb= new StringBuilder(x);
+           System.out.println(sb);
            sb.reverse();
            reverseWord+= sb.toString()+" ";
        }
