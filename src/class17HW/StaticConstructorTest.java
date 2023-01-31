@@ -18,7 +18,7 @@ public class StaticConstructorTest {
     }
 
     public static void main(String[] args) {
-        StaticConstructorTest st=new StaticConstructorTest();
+        StaticConstructorTest st=new StaticConstructorTest(2009,240000,"Daniel");
         st.display();
     }
 }
