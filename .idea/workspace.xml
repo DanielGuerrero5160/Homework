@@ -51,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Book">
+  <component name="RunManager" selected="Application.StaticConstructorTest">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class17HW.Book" />
       <module name="Homework" />
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Skateboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class17HW.Skateboard" />
+    <configuration name="StaticConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class17HW.StaticConstructorTest" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticConstructorTest" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.class17HWTester" />
         <item itemvalue="Application.SkateBoardTester" />
-        <item itemvalue="Application.Skateboard" />
       </list>
     </recent_temporary>
   </component>

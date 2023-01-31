@@ -14,7 +14,7 @@ public class StaticConstructorTest {
 
     }
     void display(){
-        System.out.println("Year: "+year+" money: "+money+" name: "=name);
+        System.out.println("Year: "+year+" money: "+money+" name: "+name);
     }
 
     public static void main(String[] args) {
