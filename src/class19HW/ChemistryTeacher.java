@@ -16,7 +16,7 @@ public class ChemistryTeacher extends Teacher {
         ct.printFavElement();
         ct.printInfo();
         ct.discipline();
-        ct.practice();
+        //ct.practice(); Not able to call method because it is private(only accessible in same class)
         ct.printSubject();
     }
 }

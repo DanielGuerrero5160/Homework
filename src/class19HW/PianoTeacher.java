@@ -16,7 +16,7 @@ public class PianoTeacher extends Teacher{
         pt.printFavStyle();
         pt.printInfo();
         pt.discipline();
-        pt.practice();
+        //pt.practice(); cannot use because this is a private method
         pt.printSubject();
     }
 }

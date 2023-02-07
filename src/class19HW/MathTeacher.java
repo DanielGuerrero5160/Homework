@@ -17,7 +17,7 @@ public class MathTeacher extends Teacher{
         mt.printUni();
         mt.printSubject();
         mt.discipline();
-        mt.practice();
+      //  mt.practice(); cannot use as this is a private method
 
     }
 }

@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c2fb229-d0a9-4cd7-88ec-57d1bab04fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class19HW/ChemistryTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/ClassA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/ClassB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/MathTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/PianoTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19HW/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19HW/JavaTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20HW/AreaTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20HW/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20HW/FtTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20HW/FullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20HW/PartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20HW/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19HW/ChemistryTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/ChemistryTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19HW/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/MathTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19HW/PianoTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/PianoTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19HW/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +51,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MathTeacher">
-    <configuration name="ChemistryTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19HW.ChemistryTeacher" />
+  <component name="RunManager" selected="Application.FtTester">
+    <configuration name="AreaTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20HW.AreaTester" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19HW.*" />
+          <option name="PATTERN" value="class20HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19HW.ClassB2" />
+    <configuration name="FtTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20HW.FtTester" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19HW.*" />
+          <option name="PATTERN" value="class20HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19HW.ClassC" />
+    <configuration name="JavaTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class19HW.JavaTeacher" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FtTester" />
+        <item itemvalue="Application.AreaTester" />
+        <item itemvalue="Application.JavaTeacher" />
         <item itemvalue="Application.MathTeacher" />
         <item itemvalue="Application.PianoTeacher" />
-        <item itemvalue="Application.ChemistryTeacher" />
-        <item itemvalue="Application.ClassB2" />
-        <item itemvalue="Application.ClassC" />
       </list>
     </recent_temporary>
   </component>
