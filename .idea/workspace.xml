@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2fb229-d0a9-4cd7-88ec-57d1bab04fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class19HW/JavaTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20HW/AreaTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20HW/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20HW/FtTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20HW/FullTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20HW/PartTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20HW/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class19HW/ChemistryTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/ChemistryTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class19HW/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/MathTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class19HW/PianoTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/PianoTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class19HW/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19HW/Teacher.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c2fb229-d0a9-4cd7-88ec-57d1bab04fc8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +38,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FtTester">
+  <component name="RunManager" selected="Application.CCTester">
     <configuration name="AreaTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class20HW.AreaTester" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class20HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CCTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class22HW.CCTester" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class22HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PianoTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19HW.PianoTeacher" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class19HW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CCTester" />
         <item itemvalue="Application.FtTester" />
         <item itemvalue="Application.AreaTester" />
         <item itemvalue="Application.JavaTeacher" />
         <item itemvalue="Application.MathTeacher" />
-        <item itemvalue="Application.PianoTeacher" />
       </list>
     </recent_temporary>
   </component>
